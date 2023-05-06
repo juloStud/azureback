@@ -1,0 +1,21 @@
+{
+  "name": "azureback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juloStud/azureback.git"
+  },
+  "author": "Jules",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juloStud/azureback/issues"
+  },
+  "homepage": "https://github.com/juloStud/azureback#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
