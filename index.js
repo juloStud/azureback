@@ -8,9 +8,7 @@ app.use(cors());
 
 const fruits = ["pomme","poire","fraise","kiwi","banane"];
 
-// app.get("/", (req,res) => {
-//     res.send("Serveur back de Jules");
-// })
+app.get("/", () => { console.log("test");})
 
 app.get("/getFruits", (req,res) => {
     res.json(fruits);
